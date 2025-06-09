@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there👋 I'm Gerardo Ladera
+
+🎓 I'm a Software Engineering student at the National University of San Marcos (UNMSM), Peru.
 
 <!--
 **gerardoLadera/gerardoLadera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
