@@ -1,4 +1,4 @@
-## Hi there👋 I'm Gerardo Ladera
+<h1 align=center >Hi there👋 I'm Gerardo Ladera</h1> 
 
 
 
